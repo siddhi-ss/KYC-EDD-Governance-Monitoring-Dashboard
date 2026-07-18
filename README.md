@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** developed to monitor **Know Your Customer 
 
 > Replace the image below with your dashboard screenshot.
 
-![Dashboard](images/dashboard.jpg)
+![Dashboard](dashboard.jpg)
 
 ---
 
